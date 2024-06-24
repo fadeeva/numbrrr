@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 drafts
+__pycache__
+combinatorics/permutation.py
+combinatorics/test_list.py
